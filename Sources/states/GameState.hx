@@ -24,7 +24,7 @@ class GameState extends State {
 
     var timeForSpawn:Float = 7;
     var timeForDifficultyIncrease:Float = 0;
-    var spawnTimer:Float = 3;
+    var spawnTimer:Float = 5;
 
     override function load(resources:Resources){
         var atlas=new JoinAtlas(512,512);

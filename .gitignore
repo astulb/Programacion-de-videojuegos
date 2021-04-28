@@ -11,3 +11,7 @@ build/debug-html5-resources/files.json
 build/debug-html5/kha.js
 build/debug-html5/kha.js.map
 build/temp/cache.json
+build/temp/cache.json
+build/debug-html5/kha.js.map
+build/debug-html5/kha.js
+build/debug-html5-resources/files.json
