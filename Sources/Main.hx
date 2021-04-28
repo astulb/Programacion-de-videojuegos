@@ -10,7 +10,7 @@ class Main {
 
     public static function main() {
         System.start({title: "Project", width: GameConfig.windowsWidth, height: GameConfig.windowsHight}, function (_) {        
-            new Simulation(GameState,GameConfig.windowsWidth,GameConfig.windowsHight,1,0);
+            new Simulation(MainState,GameConfig.windowsWidth,GameConfig.windowsHight,1,0);
         });
     }
 }
